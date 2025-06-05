@@ -1,6 +1,6 @@
 # 🔐 JWT Authentication using Spring Boot 3.3 + Java 21 + Swagger UI | Hindi Tutorial
 
-This project demonstrates how to implement JWT (JSON Web Token) based login authentication using **Spring Boot 3.3**, **Java 21**, and **Spring Security 6.2**. It includes **Swagger UI integration** and an **H2 in-memory database** for demonstration and testing.
+This project demonstrates how to implement JWT (JSON Web Token) based login authentication using **Spring Boot 3.3**, **Java 21**, and **Spring Security 6.2**. It includes **Swagger UI integration** and an **H2 in-memory database** for demonstration and testing. 
 
 ---
 
